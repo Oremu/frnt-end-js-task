@@ -18,7 +18,7 @@ function evenNums(A, B){
 } evenNums(A, B);
 
 // Number 3;
-
+/*Answer = (d) When you want to loop through a group of statements*/
 
 //Number 4; 
 let Integ1 = 6;
